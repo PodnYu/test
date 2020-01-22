@@ -11,5 +11,7 @@ int main()
     {
         cout<<"i = "<<i<<endl;
     }
+    cout<<"Exit\n";
+    cin>>x;
     return 0;
 }
