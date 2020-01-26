@@ -18,5 +18,8 @@ int main()
     }
     else
         //get out of here
+    
+    int a = 3;
+        
     return 0;
 }
