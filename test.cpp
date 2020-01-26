@@ -12,5 +12,9 @@ int main()
         cout<<"i = "<<i<<endl;
     }
     cin>>x;
+    if(x == 3)
+    {
+        //execute order 66
+    }
     return 0;
 }
