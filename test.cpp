@@ -24,6 +24,8 @@ int main()
     int t = 32001;
 
     int a = 3;
+    
+    int b = -32001;
         
     return 0;
 }
