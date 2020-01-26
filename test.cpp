@@ -21,5 +21,7 @@ int main()
 
     int z = 0;
 
+    int a = 3;
+        
     return 0;
 }
