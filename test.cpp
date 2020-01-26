@@ -16,5 +16,8 @@ int main()
     {
         //execute order 66
     }
+
+    int z = 39;
+
     return 0;
 }
