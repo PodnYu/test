@@ -21,6 +21,8 @@ int main()
 
     int z = 0;
 
+    int t = 32001;
+
     int a = 3;
         
     return 0;
