@@ -18,5 +18,8 @@ int main()
     }
     else
         //get out of here
+
+    int z = 0;
+
     return 0;
 }
