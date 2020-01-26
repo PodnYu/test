@@ -16,8 +16,13 @@ int main()
     {
         //execute order 66
     }
+<<<<<<< HEAD
 
     int z = 39;
 
+=======
+    else
+        //get out of here
+>>>>>>> 943802cc5e903bf47761337609fb7c8e6b157dcf
     return 0;
 }
