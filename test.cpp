@@ -5,7 +5,9 @@ using namespace std;
 int main()
 {
     
-    //commited from origin
+    //commited from origin 1
+    
+    //commited from origin 2
     
     cout<<"Hello world!\n";
     int x = 0;
